@@ -1,5 +1,7 @@
 # Major-Project
+
 1.Runner-up in State-level Hackathon , this wearable Device works without the use of Internet based on IoT ad other Technologies such as GSM , GPS , Arduino and ESP8266 .
+
 2.Objective was to create a safer environment for both women and children.
 
 Features : 
